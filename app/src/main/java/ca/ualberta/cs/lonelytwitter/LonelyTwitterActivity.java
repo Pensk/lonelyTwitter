@@ -123,7 +123,7 @@ public class LonelyTwitterActivity extends Activity {
 	 * This method sorts the tweet list items and refreshes the adapter.
 	 * @param ordering ordering to be used.
      */
-	private void sortTweetListItems(TweetlistOrdering ordering){
+	private void sortTweetListItems(TweetListOrdering ordering){
 
 	}
 
